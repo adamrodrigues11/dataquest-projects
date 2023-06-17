@@ -1,0 +1,9 @@
+Notes for improvement on the project:
+
+1. Why choose to filter the Google Play duplicates based on ratings count and not installs? Would there be a difference
+
+2. Why choose "Category" over "Genres" when assessing the average number of installs per app in each genre for the Google Play dataset? What would the difference be in the results?
+
+3. Could also look at including content ratings in the analysis
+
+4. If in-app purchases are a source of revenue, maybe we should consider rating values as well, and not just counts
